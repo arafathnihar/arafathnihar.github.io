@@ -1,0 +1,150 @@
+/*-- scss:defaults --*/
+$font-family-sans-serif: "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif !default;
+$headings-font-weight: 600 !default;
+$link-color: #2c5aa0 !default;
+$navbar-light-color: #333 !default;
+$navbar-light-hover-color: #2c5aa0 !default;
+
+/*-- scss:rules --*/
+:root {
+  --portfolio-accent: #2c5aa0;
+  --portfolio-muted: #6c757d;
+  --portfolio-border: #e9ecef;
+  --portfolio-soft: #f8f9fa;
+}
+
+body {
+  line-height: 1.62;
+}
+
+.navbar {
+  border-bottom: 1px solid var(--portfolio-border);
+  background: #fff;
+}
+
+.navbar-title {
+  font-weight: 600;
+}
+
+.navbar-nav .nav-link {
+  font-size: 0.95rem;
+}
+
+.quarto-title-banner,
+.quarto-title-block.default .quarto-title .title {
+  margin-bottom: 1.25rem;
+}
+
+h1, h2, h3 {
+  letter-spacing: -0.015em;
+}
+
+h2 {
+  border-bottom: 1px solid var(--portfolio-border);
+  padding-bottom: .35rem;
+  margin-top: 2.25rem;
+}
+
+main.content {
+  max-width: 1000px;
+}
+
+.about-entity .about-link {
+  border-radius: 999px;
+}
+
+.badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .45rem;
+  margin: 1rem 0 1.25rem;
+}
+
+.badge-soft {
+  border: 1px solid var(--portfolio-border);
+  border-radius: 999px;
+  padding: .32rem .65rem;
+  background: var(--portfolio-soft);
+  color: #495057;
+  font-size: .9rem;
+}
+
+.card-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.15rem;
+  margin: 1.5rem 0 2.4rem;
+}
+
+.portfolio-card {
+  border: 1px solid var(--portfolio-border);
+  border-left: 4px solid var(--portfolio-accent);
+  border-radius: .6rem;
+  padding: 1.35rem 1.45rem;
+  background: #fff;
+  box-shadow: 0 8px 24px rgba(15, 23, 42, 0.045);
+  line-height: 1.56;
+}
+
+.portfolio-card h3 {
+  margin-top: 0;
+  margin-bottom: .65rem;
+  color: #1f3f73;
+  font-size: 1.2rem;
+  line-height: 1.25;
+}
+
+.timeline-item {
+  position: relative;
+  border-left: 3px solid var(--portfolio-border);
+  padding: .05rem 0 1.35rem 1.35rem;
+  margin: 0 0 0 .75rem;
+}
+
+.timeline-item::before {
+  content: "";
+  position: absolute;
+  left: -9px;
+  top: .45rem;
+  width: 15px;
+  height: 15px;
+  border: 3px solid var(--portfolio-accent);
+  border-radius: 50%;
+  background: #fff;
+}
+
+.timeline-item h3 {
+  margin-top: 0;
+  margin-bottom: .2rem;
+}
+
+.timeline-item h3 + p {
+  color: var(--portfolio-muted);
+  margin-top: 0;
+}
+
+.metric-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 1rem;
+  margin: 1.2rem 0 2rem;
+}
+
+.metric {
+  border-top: 3px solid var(--portfolio-accent);
+  padding: .9rem;
+  background: var(--portfolio-soft);
+}
+
+.metric strong {
+  display: block;
+  font-size: 1.55rem;
+  line-height: 1.1;
+}
+
+@media (max-width: 900px) {
+  .metric-grid {
+    grid-template-columns: 1fr;
+  }
+}
+

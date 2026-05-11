@@ -1,0 +1,50 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - index.qmd
+
+website:
+  title: "Arafath Nihar"
+  description: "Platform, data infrastructure, and research engineering portfolio"
+  site-url: "https://arafathnihar.github.io/"
+  navbar:
+    pinned: true
+    left:
+      - text: Home
+        href: index.qmd
+      - text: Experience
+        href: index.qmd#experience
+      - text: Projects
+        href: index.qmd#projects
+      - text: Publications
+        href: index.qmd#publications
+      - text: Education
+        href: index.qmd#education
+    right:
+      - icon: github
+        href: https://github.com/arafathnihar
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://www.linkedin.com/in/arafathnihar/
+        aria-label: LinkedIn
+      - icon: envelope
+        href: mailto:arafathnihar@gmail.com
+        aria-label: Email
+  page-footer:
+    left: "© 2026 Arafath Nihar"
+    right: "Built with [Quarto](https://quarto.org/)"
+
+format:
+  html:
+    theme:
+      - cosmo
+      - styles.css
+    toc: true
+    toc-depth: 3
+    smooth-scroll: true
+    link-external-newwindow: true
+    code-copy: true
+
+execute:
+  freeze: auto

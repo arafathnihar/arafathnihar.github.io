@@ -1,0 +1,62 @@
+---
+title: "Experience"
+description: "Professional experience in data platforms, research engineering, cloud systems, and software engineering."
+---
+
+## Professional experience
+
+::: {.timeline-item}
+### Solutions Architect — [Jatango](http://jatango.com)
+*Cleveland, OH · Jan 2025 – Aug 2025*
+
+Led cloud-native architecture for a live commerce platform built on Azure, Kubernetes, .NET, GraphQL, and Next.js. Translated business requirements into technical architecture, evaluated distributed-system scalability, presented technical roadmaps to stakeholders, and collaborated on patent specifications.
+:::
+
+::: {.timeline-item}
+### Data Science Challenge Fellow / Team Lead — [Lawrence Livermore National Laboratory](https://www.llnl.gov/)
+*Livermore, CA · Aug 2024*
+
+Led an undergraduate team applying machine learning to ECG analysis. Built preprocessing, normalization, and Gramian Angular Field image-transformation workflows; compared statistical baselines, CNNs, and ResNet18 transfer learning; and explored interpretable ECG-to-voltage prediction models.
+:::
+
+::: {.timeline-item}
+### Research Engineer, Materials Data Science — [SDLE Research Center, Case Western Reserve University](https://engineering.case.edu/centers/sdle)
+*Cleveland, OH · 2021 – 2025*
+
+Architected and evolved **CRADLE**: a hybrid Hadoop-HPC platform supporting materials data science workflows across distributed storage, interactive analysis, large-scale compute, and browser-accessible research environments.
+
+Key contributions:
+
+- Scaled infrastructure to 1,000+ compute cores, 30 NVIDIA A2 GPUs, 19+ storage nodes, and 2.5 PB raw capacity.
+- Built reproducible Apptainer/Singularity environments exposed through Open OnDemand for researchers, courses, and 500+ students annually.
+- Developed platform tooling including CradleTools, SDLEFleets/CradleFleets, CradleDataLoader, CradleDataExplorer, and `cradlesgis`.
+- Implemented secure identity and authorization through university SSO, Kerberos-mapped credentials, keytabs, and Apache Ranger.
+- Designed GCP-based CI/CD for container builds, registry, conversion, storage, and HPC deployment automation.
+- Supported workflows spanning photovoltaic time-series data, AFM image segmentation, geospatial ingestion, semantic web documentation, and large-scale analytics.
+:::
+
+::: {.timeline-item}
+### Data Scientist / Cloud Engineer — [Edifice Analytics](https://edificeanalytics.com/)
+*Cleveland, OH · 2019 – 2021*
+
+Built automated pipelines for building energy time-series analysis, developed Angular/Plotly dashboards, created secure REST APIs, and designed hybrid AWS architecture connecting cloud services to on-premise Hadoop/HBase infrastructure.
+:::
+
+::: {.timeline-item}
+### Software Engineer — [OrangeHRM](https://www.orangehrm.com/)
+*Colombo, Sri Lanka · 2016 – 2019*
+
+Designed and maintained production software including automated deployment tooling with real-time WebSocket progress, a hybrid Ionic mobile application for Red Hat, and Symfony/PHP/MySQL systems following test-driven development practices.
+:::
+
+::: {.timeline-item}
+### Software Engineer Intern — [Virtusa](https://www.virtusa.com/)
+*Colombo, Sri Lanka · 2015 – 2016*
+
+Contributed to enterprise software engineering projects in a production development environment.
+:::
+
+## Education
+
+- **Ph.D. in Computer Science**, Case Western Reserve University — expected May 2026. Dissertation: *Auto Scaling Materials Data Science Machine Learning Pipelines*.
+- **B.S. in Computer Science**, University of Colombo School of Computing — 2016.

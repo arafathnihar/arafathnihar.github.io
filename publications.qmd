@@ -1,0 +1,27 @@
+---
+title: "Publications"
+description: "Peer-reviewed publications and selected presentations."
+---
+
+## Peer-reviewed publications
+
+1. Rajamohan, B.P., Bradley, A.C.H., Tran, V.D., …, **Nihar, A.**, et al. *Materials Data Science Ontology (MDS-Onto): Unifying Domain Knowledge in Materials and Applied Data Science*. **Scientific Data**, 12, 628, 2025. [doi:10.1038/s41597-025-04938-5](https://doi.org/10.1038/s41597-025-04938-5)
+2. Ciardi, T.G., **Nihar, A.**, Chawla, R. et al. *Materials data science using CRADLE: A distributed, data-centric approach*. **MRS Communications**, 2024. [doi:10.1557/s43579-024-00616-6](https://doi.org/10.1557/s43579-024-00616-6)
+3. Hernandez, K.J., Ciardi, T.G., Yamamoto, R. et al. *L-PBF High-Throughput Data Pipeline Approach for Multi-modal Integration*. **Integrating Materials and Manufacturing Innovation**, 2024. [doi:10.1007/s40192-024-00368-0](https://doi.org/10.1007/s40192-024-00368-0)
+4. Hernandez, K.J., Barcelos, E.I., Jimenez, J.C. et al. *A data integration framework of additive manufacturing based on FAIR principles*. **MRS Advances**, 2024. [doi:10.1557/s43580-024-00874-5](https://doi.org/10.1557/s43580-024-00874-5)
+5. **Nihar, A.** et al. *Accelerating Time to Science using CRADLE: A Framework for Materials Data Science*. **IEEE HiPC**, Goa, India, 2023, pp. 216–226. [doi:10.1109/HiPC58850.2023.00041](https://doi.org/10.1109/HiPC58850.2023.00041)
+6. Lu, M., Venkat, S.N., Augustino, J. et al. *Image Processing Pipeline for Fluoroelastomer Crystallite Detection in Atomic Force Microscopy Images*. **Integrating Materials and Manufacturing Innovation**, 2023. [doi:10.1007/s40192-023-00320-8](https://doi.org/10.1007/s40192-023-00320-8)
+7. **A. Nihar** et al. *Toward Findable, Accessible, Interoperable and Reusable (FAIR) Photovoltaic System Time Series Data*. **IEEE PVSC**, 2021, pp. 2481–2486. [doi:10.1109/PVSC43889.2021.9518782](https://doi.org/10.1109/PVSC43889.2021.9518782)
+8. Liangyi Huang, Sophia Hall, Fei Shao, **Arafath Nihar**, Vipin Chaudhary, Yinghui Wu, Roger French, and Xusheng Xiao. *System-Auditing, Data Analysis and Characteristics of Cyber Attacks for Big Data Systems*. **ACM CIKM**, 2022. [doi:10.1145/3511808.3557185](https://doi.org/10.1145/3511808.3557185)
+9. M. Li et al. *Data-Driven Photovoltaic Module Performance Analysis with FAIR Data*. **IEEE PVSC**, 2023. [doi:10.1109/PVSC48320.2023.10359605](https://doi.org/10.1109/PVSC48320.2023.10359605)
+
+## Selected presentations
+
+- Invited speaker, *CRADLE: A Distributed and High-Performance Computing Framework for Research*, 9th CWRU x Tohoku Joint Workshop / CWRU-Tohoku Joint Symposium, Tohoku University, Sendai, Japan, August 2023. [Speaker profile](https://sites.google.com/view/cwru-tohoku-joint-workshop/speakers/nihar)
+- *Unifying High-Performance and Distributed Computing for Materials Data Science*, 2023 Fall Materials Research Society Meeting, Boston, MA.
+- *Towards Usability and Reproducibility in Distributed and High Performance Computing Environment for Big Data Research with CRADLE*, 8th Annual Data Science in Engineering and Life Sciences Symposium, Case Western Reserve University.
+
+## Awards
+
+- Lawrence Livermore National Lab Data Science Challenge Scholar, 2024.
+- IEEE HiPC Best Paper Nomination, 2023.

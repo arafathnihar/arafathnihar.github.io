@@ -1,0 +1,58 @@
+---
+title: "Projects"
+description: "Selected platform, data engineering, machine learning, and scientific software projects."
+---
+
+## Featured projects
+
+::: {.card-grid}
+::: {.portfolio-card}
+### CRADLE Hybrid Hadoop-HPC Architecture
+Architected a hybrid platform integrating Hadoop clusters with HPC infrastructure for materials science workloads. Combined distributed preprocessing and large data stores with high-performance CPU/GPU nodes for simulation, modeling, and ML.
+:::
+
+::: {.portfolio-card}
+### Open OnDemand Web Access
+Packaged browser-accessible HPC applications for JupyterLab, RStudio Server, code-server, TensorBoard, Spark History Server, Label Studio, Ollama, XFCE desktops, Shiny apps, WebVOWL, and CRADLE Data Explorer.
+:::
+
+::: {.portfolio-card}
+### CradleFleets / SDLEFleets
+Built Python tooling that turns Parquet workload tables and worker scripts into validated SLURM array submissions with CPU/GPU controls, logging, queue-aware throttling, requeueing, and status inspection.
+:::
+
+::: {.portfolio-card}
+### CradleTools and data interfaces
+Designed Python/R packages abstracting HBase, HDFS/WebHDFS, Impala/Hive, REDCap, Arrow, and SLURM workflows with APIs for table discovery, scans, dataframe ingestion, and zero-copy cross-language exchange.
+:::
+
+::: {.portfolio-card}
+### NSRDB solar data pipeline
+Converted National Solar Radiation Database HDF5 datasets spanning 2+ million sites into partitioned Parquet for distributed analytics, with PySpark validation, feature construction, and SLURM-ready execution.
+:::
+
+::: {.portfolio-card}
+### MDS-Onto Open
+Contributed to public ontology release workflows for FAIR materials data: React/Vite/Material UI site work, semantic web file publication, generated documentation, downloadable RDF artifacts, and CI/CD publishing.
+:::
+
+::: {.portfolio-card}
+### Browser-accessible scientific workstations
+Built CRADLE-oriented graphical Linux workstation containers with XFCE, KasmVNC, HDFView, Gwyddion, Labelme, Firefox, LibreOffice, KDE utilities, WebDAV, Kerberos libraries, and GraphDB Desktop.
+:::
+
+::: {.portfolio-card}
+### CI/CD for Singularity deployment
+Designed a GCP-based pipeline from Docker definitions to Cloud Build, Artifact Registry, Apptainer/Singularity conversion, Google Cloud Storage, and SLURM-managed HPC deployment.
+:::
+
+::: {.portfolio-card}
+### Fitness Data Science
+Personal R/Quarto analytics project analyzing workout data enriched with Lyfta metadata, time-series plots, training volume aggregation, calendar heatmaps, and reproducible GitHub Pages publishing.  
+[GitHub](https://github.com/arafathnihar/fitness-data-science) · [Site](https://arafathnihar.github.io/fitness-data-science/)
+:::
+:::
+
+## Stack highlights
+
+Python · R · Spark · PyTorch · TensorFlow · HDFS · HBase · Ozone · Impala · Hive · SLURM · Apptainer · Docker · Open OnDemand · AWS · Azure · GCP · Kubernetes · React · Next.js · Shiny · Quarto
