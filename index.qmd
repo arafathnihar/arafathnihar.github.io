@@ -19,7 +19,10 @@ about:
       url: mailto:arafathnihar@gmail.com
     - text: "Google Scholar"
       url: https://scholar.google.com/citations?user=2fRpAloAAAAJ&hl=en
+  id: about-block
 ---
+
+:::{#about-block}
 
 ## Bio {#bio}
 
@@ -33,6 +36,7 @@ I am currently a Ph.D. candidate in Computer Science at Case Western Reserve Uni
 <span class="badge-soft">ML infrastructure</span>
 <span class="badge-soft">FAIR data systems</span>
 <span class="badge-soft">Scientific software</span>
+:::
 :::
 
 ## Experience {#experience}
