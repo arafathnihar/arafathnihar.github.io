@@ -13,7 +13,7 @@ Led cloud-native architecture for a live commerce platform built on Azure, Kuber
 :::
 
 ::: {.timeline-item}
-### Data Science Challenge Fellow / Team Lead — [Lawrence Livermore National Laboratory](https://www.llnl.gov/)
+### Data Science Team Lead — [Lawrence Livermore National Laboratory](https://www.llnl.gov/)
 *Livermore, CA · Aug 2024*
 
 Led an undergraduate team applying machine learning to ECG analysis. Built preprocessing, normalization, and Gramian Angular Field image-transformation workflows; compared statistical baselines, CNNs, and ResNet18 transfer learning; and explored interpretable ECG-to-voltage prediction models.

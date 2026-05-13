@@ -33,7 +33,7 @@ Platform and data infrastructure engineer who architected CRADLE (Common Researc
 
 ---
 
-### Data Science Challenge Fellow / Team Lead
+### Data Science Team Lead
 
 **[Lawrence Livermore National Laboratory](https://www.llnl.gov/)** | Livermore, CA | Aug 2024
 
