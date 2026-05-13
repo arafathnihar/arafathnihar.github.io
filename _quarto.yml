@@ -8,7 +8,7 @@ project:
 
 website:
   title: "Arafath Nihar"
-  description: "Platform, data infrastructure, and research engineering"
+  description: "Platform, data infrastructure, machine learning, and research engineering"
   site-url: "https://arafathnihar.com/"
   site-path: "/"
   repo-url: "https://github.com/arafathnihar/arafathnihar.github.io"

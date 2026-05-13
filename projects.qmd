@@ -7,6 +7,11 @@ description: "Selected platform, data engineering, machine learning, and scienti
 
 ::: {.card-grid}
 ::: {.portfolio-card}
+### Photovoltaic Graph Neural Networks
+Built spatiotemporal graph neural network workflows for PV fleet forecasting, imputation, and performance analysis across 100,000+ systems and 29 billion time-series measurements, including graph construction, Gramian Angular Field features, and graph-attention autoencoder experiments.
+:::
+
+::: {.portfolio-card}
 ### CRADLE Hybrid Hadoop-HPC Architecture
 Architected a hybrid platform integrating Hadoop clusters with HPC infrastructure for materials science workloads. Combined distributed preprocessing and large data stores with high-performance CPU/GPU nodes for simulation, modeling, and ML.
 :::
@@ -47,6 +52,11 @@ Designed a GCP-based pipeline from Docker definitions to Cloud Build, Artifact R
 :::
 
 ::: {.portfolio-card}
+### WordPress and portfolio sites on AWS VPS
+Hosted and administered WordPress web properties including edificeanalytics.com and mds3-coe.com on AWS VPS infrastructure, and maintained a public portfolio site with Linux/cloud hosting, troubleshooting, and operational maintenance.
+:::
+
+::: {.portfolio-card}
 ### Fitness Data Science
 Personal R/Quarto analytics project analyzing workout data enriched with Lyfta metadata, time-series plots, training volume aggregation, calendar heatmaps, and reproducible GitHub Pages publishing.  
 [GitHub](https://github.com/arafathnihar/fitness-data-science) · [Site](https://arafathnihar.github.io/fitness-data-science/)
@@ -55,4 +65,4 @@ Personal R/Quarto analytics project analyzing workout data enriched with Lyfta m
 
 ## Stack highlights
 
-Python · R · Spark · PyTorch · TensorFlow · HDFS · HBase · Ozone · Impala · Hive · SLURM · Apptainer · Docker · Open OnDemand · AWS · Azure · GCP · Kubernetes · React · Next.js · Shiny · Quarto
+Python · R · Spark · PyTorch · TensorFlow · graph neural networks · graph autoencoders · spatiotemporal forecasting · HDFS · HBase · Ozone · Impala · Hive · SLURM · Apptainer · Docker · Open OnDemand · AWS · Azure · GCP · Kubernetes · WordPress · React · Next.js · Shiny · Quarto

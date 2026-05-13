@@ -13,14 +13,14 @@ Led cloud-native architecture for a live commerce platform built on Azure, Kuber
 :::
 
 ::: {.timeline-item}
-### Data Science Team Lead — [Lawrence Livermore National Laboratory](https://www.llnl.gov/)
+### Data Science Challenge Fellow / Team Lead — [Lawrence Livermore National Laboratory](https://www.llnl.gov/)
 *Livermore, CA · Aug 2024*
 
-Led an undergraduate team applying machine learning to ECG analysis. Built preprocessing, normalization, and Gramian Angular Field image-transformation workflows; compared statistical baselines, CNNs, and ResNet18 transfer learning; and explored interpretable ECG-to-voltage prediction models.
+Led an undergraduate team applying machine learning to ECG analysis. Built preprocessing, normalization, and Gramian Angular Field image-transformation workflows; compared statistical baselines, CNNs, and ResNet18 transfer learning; and explored interpretable ECG-to-transmembrane-voltage prediction models against prior synthetic-data ECG reconstruction work.
 :::
 
 ::: {.timeline-item}
-### Research Engineer, Materials Data Science — [SDLE Research Center, Case Western Reserve University](https://engineering.case.edu/centers/sdle)
+### Research Engineer, Materials Data Science — [SDLE Research Center / MDS3, Case Western Reserve University](https://engineering.case.edu/centers/sdle)
 *Cleveland, OH · 2021 – 2025*
 
 Architected and evolved **CRADLE**: a hybrid Hadoop-HPC platform supporting materials data science workflows across distributed storage, interactive analysis, large-scale compute, and browser-accessible research environments.
@@ -32,6 +32,7 @@ Key contributions:
 - Developed platform tooling including CradleTools, SDLEFleets/CradleFleets, CradleDataLoader, CradleDataExplorer, and `cradlesgis`.
 - Implemented secure identity and authorization through university SSO, Kerberos-mapped credentials, keytabs, and Apache Ranger.
 - Designed GCP-based CI/CD for container builds, registry, conversion, storage, and HPC deployment automation.
+- Built photovoltaic graph neural network workflows over 100,000+ PV systems and 29 billion time-series measurements for fleet forecasting, imputation, anomaly-oriented reconstruction, and performance analysis.
 - Supported workflows spanning photovoltaic time-series data, AFM image segmentation, geospatial ingestion, semantic web documentation, and large-scale analytics.
 :::
 

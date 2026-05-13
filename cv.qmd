@@ -6,9 +6,9 @@ toc: true
 
 # Arafath Nihar
 
-+1 (216) 200-9310 | [arafathnihar@gmail.com](mailto:arafathnihar@gmail.com) | [GitHub](https://github.com/arafathnihar) | [LinkedIn](https://www.linkedin.com/in/arafathnihar/) | [Google Scholar](https://scholar.google.com/citations?user=2fRpAloAAAAJ&hl=en)
++1 (216) 200-9310 | [arafathnihar@gmail.com](mailto:arafathnihar@gmail.com) | [Portfolio](https://arafathnihar.com/) | [GitHub](https://github.com/arafathnihar) | [LinkedIn](https://www.linkedin.com/in/arafathnihar/) | [Google Scholar](https://scholar.google.com/citations?user=2fRpAloAAAAJ&hl=en) | [ORCID](https://orcid.org/0000-0003-4826-290X) | [Stack Overflow](https://stackoverflow.com/users/3644689/arafath-nihar)
 
-Platform and data infrastructure engineer who architected CRADLE (Common Research Analytics and Data Lifecycle Environment) — a petabyte-scale hybrid Hadoop-HPC system supporting 500+ researchers and students across three universities — and has published 9 peer-reviewed papers spanning materials data science, FAIR data, HPC, semantic web ontology, and biomedical ML. Combines hands-on engineering depth across distributed data, cloud-native systems, containerized research platforms, and machine learning infrastructure with cross-functional leadership, international invited presentations, and a track record of translating complex technical systems into research and business outcomes.
+Platform, data infrastructure, and machine learning engineer who architected CRADLE (Common Research Analytics and Data Lifecycle Environment) — a petabyte-scale hybrid Hadoop-HPC system supporting 500+ researchers and students across three universities — and has driven internationally recognized research contributions spanning materials data science, FAIR data, HPC, semantic web ontology, and biomedical ML. Combines hands-on engineering depth across distributed data, cloud-native systems, containerized research platforms, photovoltaic graph neural network workflows, spatio-temporal graph convolutional networks, and machine learning infrastructure with cross-functional leadership, international invited presentations, and a track record of translating complex technical systems into research and business outcomes.
 
 ---
 
@@ -16,11 +16,11 @@ Platform and data infrastructure engineer who architected CRADLE (Common Researc
 
 **Languages:** Python, R, JavaScript, TypeScript, PHP, SQL, C#
 
-**Data, ML, and Analytics:** [PyTorch](https://pytorch.org/), [TensorFlow](https://www.tensorflow.org/), [ONNX](https://onnx.ai/), [Optuna](https://optuna.org/), [scikit-learn](https://scikit-learn.org/), [PyTS](https://pyts.readthedocs.io/), [Apache Spark](https://spark.apache.org/), [PySpark](https://spark.apache.org/docs/latest/api/python/), [GraphX](https://spark.apache.org/graphx/), [Apache Sedona](https://sedona.apache.org/), [NVIDIA RAPIDS](https://rapids.ai/), [tidyverse](https://www.tidyverse.org/), [ggplot2](https://ggplot2.tidyverse.org/), [janitor](https://sfirke.github.io/janitor/), [rvest](https://rvest.tidyverse.org/), [jsonlite](https://cran.r-project.org/web/packages/jsonlite/), [data.table](https://rdatatable.gitlab.io/data.table/), [dplyr](https://dplyr.tidyverse.org/), [tidyr](https://tidyr.tidyverse.org/), [reticulate](https://rstudio.github.io/reticulate/), [PyArrow](https://arrow.apache.org/docs/python/), [pandas](https://pandas.pydata.org/), [NumPy](https://numpy.org/), [h5py](https://www.h5py.org/), [Zarr](https://zarr.readthedocs.io/), [tsibble](https://tsibble.tidyverts.org/), [calendR](https://github.com/R-CoderDotCom/calendR), ETL pipelines, feature engineering, distributed machine learning, graph analytics, geospatial analytics, web scraping, metadata enrichment, time-series analysis, ECG signal processing, Gramian Angular Field time-series imaging, experiment tracking, hyperparameter tuning
+**Data, ML, and Analytics:** [PyTorch](https://pytorch.org/), [TensorFlow](https://www.tensorflow.org/), [ONNX](https://onnx.ai/), [Optuna](https://optuna.org/), [scikit-learn](https://scikit-learn.org/), [PyTS](https://pyts.readthedocs.io/), [Apache Spark](https://spark.apache.org/), [PySpark](https://spark.apache.org/docs/latest/api/python/), [GraphX](https://spark.apache.org/graphx/), [Apache Sedona](https://sedona.apache.org/), [NVIDIA RAPIDS](https://rapids.ai/), [tidyverse](https://www.tidyverse.org/), [ggplot2](https://ggplot2.tidyverse.org/), [janitor](https://sfirke.github.io/janitor/), [rvest](https://rvest.tidyverse.org/), [jsonlite](https://cran.r-project.org/web/packages/jsonlite/), [data.table](https://rdatatable.gitlab.io/data.table/), [dplyr](https://dplyr.tidyverse.org/), [tidyr](https://tidyr.tidyverse.org/), [reticulate](https://rstudio.github.io/reticulate/), [PyArrow](https://arrow.apache.org/docs/python/), [pandas](https://pandas.pydata.org/), [NumPy](https://numpy.org/), [h5py](https://www.h5py.org/), [Zarr](https://zarr.readthedocs.io/), [tsibble](https://tsibble.tidyverts.org/), [calendR](https://github.com/R-CoderDotCom/calendR), ETL pipelines, feature engineering, distributed machine learning, graph neural networks, graph autoencoders, graph attention, graph analytics, geospatial analytics, spatiotemporal forecasting, web scraping, metadata enrichment, time-series analysis, ECG signal processing, Gramian Angular Field time-series imaging, experiment tracking, hyperparameter tuning
 
 **Infrastructure and Platforms:** [Hadoop](https://hadoop.apache.org/), [HDFS](https://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-hdfs/HdfsUserGuide.html), WebHDFS, [HBase](https://hbase.apache.org/), [Apache Ozone](https://ozone.apache.org/), [JanusGraph](https://janusgraph.org/), [Impala](https://impala.apache.org/), [Hive](https://hive.apache.org/), [YARN](https://hadoop.apache.org/docs/stable/hadoop-yarn/hadoop-yarn-site/YARN.html), [SLURM](https://slurm.schedmd.com/), [Apptainer/Singularity](https://apptainer.org/), [Docker](https://www.docker.com/), [Open OnDemand](https://openondemand.org/), [KasmVNC](https://www.kasmweb.com/kasmvnc), XFCE, [Kerberos](https://web.mit.edu/kerberos/), [Apache Ranger](https://ranger.apache.org/), Linux, [NGINX](https://nginx.org/), [OpenResty](https://openresty.org/)
 
-**Cloud and Web:** [AWS](https://aws.amazon.com/), [Azure](https://azure.microsoft.com/), [Google Cloud Platform](https://cloud.google.com/), [AWS VPC](https://aws.amazon.com/vpc/), [EC2](https://aws.amazon.com/ec2/), [API Gateway](https://aws.amazon.com/api-gateway/), VPC Link, [CloudWatch](https://aws.amazon.com/cloudwatch/), [Cognito](https://aws.amazon.com/cognito/), [Network Load Balancer](https://aws.amazon.com/elasticloadbalancing/network-load-balancer/), [NAT Gateway](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-nat-gateway.html), [AWS Direct Connect](https://aws.amazon.com/directconnect/), VPN, [Google Cloud Build](https://cloud.google.com/build), [Artifact Registry](https://cloud.google.com/artifact-registry), [Google Cloud Storage](https://cloud.google.com/storage), [Kubernetes](https://kubernetes.io/), [GraphQL](https://graphql.org/), [Next.js](https://nextjs.org/), [React](https://react.dev/), [Vite](https://vitejs.dev/), [Material UI](https://mui.com/), [Angular](https://angular.io/), [Plotly](https://plotly.com/), [Shiny](https://shiny.posit.co/), [Quarto](https://quarto.org/), [GitHub Pages](https://pages.github.com/), [Vercel](https://vercel.com/), [Bitbucket Pipelines](https://bitbucket.org/product/features/pipelines), REST APIs, WebSockets
+**Cloud and Web:** [AWS](https://aws.amazon.com/), [Azure](https://azure.microsoft.com/), [Google Cloud Platform](https://cloud.google.com/), AWS VPS/[EC2](https://aws.amazon.com/ec2/) hosting, [AWS VPC](https://aws.amazon.com/vpc/), [API Gateway](https://aws.amazon.com/api-gateway/), VPC Link, [CloudWatch](https://aws.amazon.com/cloudwatch/), [Cognito](https://aws.amazon.com/cognito/), [Network Load Balancer](https://aws.amazon.com/elasticloadbalancing/network-load-balancer/), [NAT Gateway](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-nat-gateway.html), [AWS Direct Connect](https://aws.amazon.com/directconnect/), VPN, [Google Cloud Build](https://cloud.google.com/build), [Artifact Registry](https://cloud.google.com/artifact-registry), [Google Cloud Storage](https://cloud.google.com/storage), [Kubernetes](https://kubernetes.io/), [WordPress](https://wordpress.org/), [GraphQL](https://graphql.org/), [Next.js](https://nextjs.org/), [React](https://react.dev/), [Vite](https://vitejs.dev/), [Material UI](https://mui.com/), [Angular](https://angular.io/), [Plotly](https://plotly.com/), [Shiny](https://shiny.posit.co/), [Quarto](https://quarto.org/), [GitHub Pages](https://pages.github.com/), [Vercel](https://vercel.com/), [Bitbucket Pipelines](https://bitbucket.org/product/features/pipelines), REST APIs, WebSockets
 
 **Software Engineering:** CI/CD, version-controlled infrastructure definitions, container build automation, Python/R package development, Slurm job orchestration, semantic web publishing, [Turtle](https://www.w3.org/TR/turtle/), [JSON-LD](https://json-ld.org/), [OWL/RDF](https://www.w3.org/OWL/), N-Triples, [Widoco](https://github.com/dgarijo/Widoco), [WebVOWL](https://service.tib.eu/webvowl/), test-driven development, API design, performance tuning, distributed system design, stakeholder-facing technical communication
 
@@ -39,7 +39,7 @@ Platform and data infrastructure engineer who architected CRADLE (Common Researc
 
 ---
 
-### Data Science Team Lead
+### Data Science Challenge Fellow / Team Lead
 
 **[Lawrence Livermore National Laboratory](https://www.llnl.gov/)** | Livermore, CA | Aug 2024
 
@@ -48,13 +48,14 @@ Platform and data infrastructure engineer who architected CRADLE (Common Researc
 - Compared Naive Bayes baselines (60.1%–65.6% accuracy), CNN models, and ResNet18 transfer learning for heartbeat classification, emphasizing the impact of class imbalance and balanced evaluation data.
 - Reported ResNet18 accuracy of 90.5% and optimized CNN accuracy of 99.71% on balanced data.
 - Explored ECG-to-transmembrane-voltage prediction with MLP-style models and progressively simpler architectures — demonstrating that near-linear models could approximate cardiac activation signals — to improve interpretability and computational efficiency for medical AI.
+- Framed ECG-to-transmembrane-voltage modeling against prior synthetic-data ECG reconstruction work using 12-lead ECG inputs, monodomain cardiac electrophysiology simulations, and 1D CNN sequence-to-sequence models.
 - Used Python, [PyTorch](https://pytorch.org/), [scikit-learn](https://scikit-learn.org/), [PyTS](https://pyts.readthedocs.io/), and [Google Colab](https://colab.research.google.com/) for biomedical signal-processing and machine-learning experiments.
 
 ---
 
 ### Research Engineer, Materials Data Science for Stockpile and Stewardship
 
-**[SDLE Research Center](https://engineering.case.edu/centers/sdle), [Case Western Reserve University](https://case.edu/)** | Cleveland, OH | 2021 – 2025
+**[SDLE Research Center](https://engineering.case.edu/centers/sdle) / [Materials Data Science for Stockpile and Stewardship](https://mds3-coe.com/), [Case Western Reserve University](https://case.edu/)** | Cleveland, OH | 2021 – 2025
 
 - Architected and evolved CRADLE (Common Research Analytics and Data Lifecycle Environment), a hybrid [Hadoop](https://hadoop.apache.org/)-HPC platform supporting materials data science workflows across distributed storage, interactive analysis, and large-scale compute.
 - Built reproducible containerized research environments with [Singularity/Apptainer](https://apptainer.org/) and exposed them through [Open OnDemand](https://openondemand.org/), improving access for researchers, courses, and approximately 500 students annually across three universities.
@@ -66,6 +67,13 @@ Platform and data infrastructure engineer who architected CRADLE (Common Researc
 - Designed [GCP](https://cloud.google.com/)-based CI/CD workflows for container build, registry, conversion, storage, and HPC deployment automation using [Bitbucket Cloud](https://bitbucket.org/), [Google Cloud Build](https://cloud.google.com/build), [Artifact Registry](https://cloud.google.com/artifact-registry), [Google Cloud Storage](https://cloud.google.com/storage), [Apptainer/Singularity](https://apptainer.org/), and [SLURM](https://slurm.schedmd.com/).
 - Supported materials data science research workflows spanning photovoltaic time-series data, AFM image segmentation, geospatial ingestion, multimodal data integration, [SolarGIS](https://solargis.com/) weather retrieval, ontology publishing, semantic-web documentation, and large-scale analytics.
 - Presented CRADLE as an invited speaker at the [9th CWRU x Tohoku Joint Workshop](https://sites.google.com/view/cwru-tohoku-joint-workshop/home) at [Tohoku University](https://www.tohoku.ac.jp/en/) in Sendai, Japan, emphasizing [Open OnDemand](https://openondemand.org/), Singularity containers, [Hadoop](https://hadoop.apache.org/), FAIR data principles, usability, reproducibility, and large-scale data management.
+
+#### Photovoltaic Graph Neural Networks and Fleet Modeling
+
+- Worked on spatiotemporal graph neural network workflows for photovoltaic fleet forecasting, imputation, and performance analysis, representing PV systems as graph nodes connected by spatial, temporal, and metadata-informed relationships.
+- Built large-scale graph and time-series data pipelines over 100,000+ PV systems and 29 billion time-series measurements, including distance-matrix construction, community detection, training-set selection, and multi-year PV time-series querying for graph neural network training.
+- Implemented core st-GAE-Fleets workflow components for scalable PV fleet modeling, including 48-by-48 Gramian Angular Field feature generation, multi-channel weather and production inputs, metadata-aware edge features, graph-attention autoencoder experiments, and geohash-partitioned local subgraphs.
+- Connected graph neural network outputs with operational PV analytics, including daily graph-corrected Graph Performance Index prediction, missing-data robustness, anomaly-oriented reconstruction, and long-term performance loss rate analysis.
 
 #### CRADLE Hybrid Hadoop-HPC Architecture
 
@@ -204,7 +212,7 @@ Platform and data infrastructure engineer who architected CRADLE (Common Researc
 
 ### B.S. in Computer Science
 
-**[University of Colombo School of Computing](https://www.ucsc.cmb.ac.lk/)** | Colombo, Sri Lanka | 2012 – 2016
+**[University of Colombo School of Computing](https://www.ucsc.cmb.ac.lk/), [University of Colombo](https://cmb.ac.lk/)** | Colombo, Sri Lanka | 2012 – 2016
 
 ---
 
@@ -230,6 +238,16 @@ Platform and data infrastructure engineer who architected CRADLE (Common Researc
 ---
 
 ## Selected Projects
+
+### WordPress and Portfolio Sites on AWS VPS
+
+**Web and Hosting Projects** | [edificeanalytics.com](https://edificeanalytics.com/) | [mds3-coe.com](https://mds3-coe.com/) | [arafathnihar.com](https://arafathnihar.com/)
+
+- Hosted and administered WordPress web properties on AWS VPS infrastructure, including [edificeanalytics.com](https://edificeanalytics.com/) and [mds3-coe.com](https://mds3-coe.com/).
+- Built and maintained a personal portfolio site at [arafathnihar.com](https://arafathnihar.com/), demonstrating public-facing web presence, content presentation, and site ownership.
+- Applied Linux/cloud hosting practices including site availability monitoring, server-side troubleshooting, web service configuration, and operational maintenance.
+
+---
 
 ### Fitness Data Science
 

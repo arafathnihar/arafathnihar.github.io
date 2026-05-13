@@ -1,7 +1,7 @@
 ---
 title: "Arafath Nihar"
-subtitle: "Platform & data infrastructure engineer for research-scale systems"
-description: "Platform, data infrastructure, and research engineering portfolio."
+subtitle: "Platform, data infrastructure, and machine learning engineer"
+description: "Portfolio for platform, data infrastructure, machine learning, and research engineering."
 image: arafathnihar.png
 about:
   template: trestles
@@ -19,6 +19,11 @@ about:
       url: mailto:arafathnihar@gmail.com
     - text: "Google Scholar"
       url: https://scholar.google.com/citations?user=2fRpAloAAAAJ&hl=en
+    - text: ORCID
+      url: https://orcid.org/0000-0003-4826-290X
+    - icon: stack-overflow
+      text: Stack Overflow
+      url: https://stackoverflow.com/users/3644689/arafath-nihar
   id: about-block
 ---
 
@@ -26,14 +31,15 @@ about:
 
 ## Bio {#bio}
 
-Platform and data infrastructure engineer building petabyte-scale research platforms, cloud-native systems, distributed analytics pipelines, and reproducible machine-learning infrastructure. I architect systems that help researchers turn complex, large-scale data into reproducible science: distributed storage, secure data access, containerized environments, HPC workflow orchestration, and analytics products.
+Platform, data infrastructure, and machine learning engineer building petabyte-scale research platforms, cloud-native systems, distributed analytics pipelines, and reproducible ML infrastructure. I architect systems that help researchers turn complex, large-scale data into reproducible science: distributed storage, secure data access, containerized environments, HPC workflow orchestration, graph neural network workflows, and analytics products.
 
-I am currently a Ph.D. candidate in Computer Science at Case Western Reserve University. My work spans Hadoop/HPC research infrastructure, FAIR data systems, scientific software, and machine-learning platforms for materials data science.
+I am currently a Ph.D. candidate in Computer Science at Case Western Reserve University. My work spans Hadoop/HPC research infrastructure, FAIR data systems, photovoltaic fleet modeling, spatiotemporal graph learning, scientific software, and machine-learning platforms for materials data science.
 
 ::: {.badges}
 <span class="badge-soft">Hadoop + HPC</span>
 <span class="badge-soft">Cloud architecture</span>
 <span class="badge-soft">ML infrastructure</span>
+<span class="badge-soft">Graph neural networks</span>
 <span class="badge-soft">FAIR data systems</span>
 <span class="badge-soft">Scientific software</span>
 :::
@@ -49,14 +55,14 @@ Led cloud-native architecture for a live commerce platform built on Azure, Kuber
 :::
 
 ::: {.timeline-item}
-### Data Science Team Lead — [Lawrence Livermore National Laboratory](https://www.llnl.gov/)
+### Data Science Challenge Fellow / Team Lead — [Lawrence Livermore National Laboratory](https://www.llnl.gov/)
 *Livermore, CA · Aug 2024*
 
-Led an undergraduate team applying machine learning to ECG analysis. Built preprocessing, normalization, and Gramian Angular Field image-transformation workflows; compared statistical baselines, CNNs, and ResNet18 transfer learning; and explored interpretable ECG-to-voltage prediction models.
+Led an undergraduate team applying machine learning to ECG analysis. Built preprocessing, normalization, and Gramian Angular Field image-transformation workflows; compared statistical baselines, CNNs, and ResNet18 transfer learning; and explored interpretable ECG-to-transmembrane-voltage prediction models against prior synthetic-data ECG reconstruction work.
 :::
 
 ::: {.timeline-item}
-### Research Engineer, Materials Data Science — [SDLE Research Center, Case Western Reserve University](https://engineering.case.edu/centers/sdle)
+### Research Engineer, Materials Data Science — [SDLE Research Center / MDS3, Case Western Reserve University](https://engineering.case.edu/centers/sdle)
 *Cleveland, OH · 2021 – 2025*
 
 Architected and evolved **CRADLE**: a hybrid Hadoop-HPC platform supporting materials data science workflows across distributed storage, interactive analysis, large-scale compute, and browser-accessible research environments.
@@ -68,6 +74,7 @@ Key contributions:
 - Developed platform tooling including CradleTools, SDLEFleets/CradleFleets, CradleDataLoader, CradleDataExplorer, and `cradlesgis`.
 - Implemented secure identity and authorization through university SSO, Kerberos-mapped credentials, keytabs, and Apache Ranger.
 - Designed GCP-based CI/CD for container builds, registry, conversion, storage, and HPC deployment automation.
+- Built photovoltaic graph neural network workflows over 100,000+ PV systems and 29 billion time-series measurements for fleet forecasting, imputation, anomaly-oriented reconstruction, and performance analysis.
 - Supported workflows spanning photovoltaic time-series data, AFM image segmentation, geospatial ingestion, semantic web documentation, and large-scale analytics.
 :::
 
@@ -89,6 +96,11 @@ Designed and maintained production software including automated deployment tooli
 
 ::: {.card-grid}
 ::: {.portfolio-card}
+### Photovoltaic Graph Neural Networks
+Built spatiotemporal graph neural network workflows for PV fleet forecasting, imputation, and performance analysis across 100,000+ systems and 29 billion time-series measurements, including graph construction, Gramian Angular Field features, and graph-attention autoencoder experiments.
+:::
+
+::: {.portfolio-card}
 ### CRADLE Hybrid Hadoop-HPC Architecture
 Architected a hybrid platform integrating Hadoop clusters with HPC infrastructure for materials science workloads. Combined distributed preprocessing and large data stores with high-performance CPU/GPU nodes for simulation, modeling, and ML.
 :::
@@ -97,14 +109,14 @@ Architected a hybrid platform integrating Hadoop clusters with HPC infrastructur
 ### Open OnDemand Web Access
 Packaged browser-accessible HPC applications for JupyterLab, RStudio Server, code-server, TensorBoard, Spark History Server, Label Studio, Ollama, XFCE desktops, Shiny apps, WebVOWL, and CRADLE Data Explorer.
 :::
+:::
 
+::: {.card-grid}
 ::: {.portfolio-card}
 ### CradleFleets / SDLEFleets
 Built Python tooling that turns Parquet workload tables and worker scripts into validated SLURM array submissions with CPU/GPU controls, logging, queue-aware throttling, requeueing, and status inspection.
 :::
-:::
 
-::: {.card-grid}
 ::: {.portfolio-card}
 ### CradleTools and data interfaces
 Designed Python/R packages abstracting HBase, HDFS/WebHDFS, Impala/Hive, REDCap, Arrow, and SLURM workflows with APIs for table discovery, scans, dataframe ingestion, and zero-copy cross-language exchange.
@@ -132,6 +144,13 @@ Built CRADLE-oriented graphical Linux workstation containers with XFCE, KasmVNC,
 Designed a GCP-based pipeline from Docker definitions to Cloud Build, Artifact Registry, Apptainer/Singularity conversion, Google Cloud Storage, and SLURM-managed HPC deployment.
 :::
 
+::: {.portfolio-card}
+### WordPress and portfolio sites on AWS VPS
+Hosted and administered WordPress web properties including edificeanalytics.com and mds3-coe.com on AWS VPS infrastructure, and maintained a public portfolio site with Linux/cloud hosting, troubleshooting, and operational maintenance.
+:::
+:::
+
+::: {.card-grid}
 ::: {.portfolio-card}
 ### Fitness Data Science
 Personal R/Quarto analytics project analyzing workout data enriched with Lyfta metadata, time-series plots, training volume aggregation, calendar heatmaps, and reproducible GitHub Pages publishing.  
@@ -168,5 +187,5 @@ Personal R/Quarto analytics project analyzing workout data enriched with Lyfta m
 
 * **Infrastructure**: Hadoop, HDFS, HBase, Ozone, JanusGraph, Impala, Hive, YARN, SLURM, Linux, Kerberos, Apache Ranger.
 * **Cloud & platforms**: AWS, Azure, GCP, Kubernetes, Docker, Apptainer/Singularity, Open OnDemand, NGINX.
-* **Data & ML**: Python, R, Spark, PyTorch, TensorFlow, ONNX, Optuna, RAPIDS, pandas, PyArrow, geospatial and time-series analytics.
-* **Web & product**: Next.js, React, Vite, Angular, GraphQL, REST APIs, Plotly, Shiny, Quarto.
+* **Data & ML**: Python, R, Spark, PyTorch, TensorFlow, ONNX, Optuna, RAPIDS, graph neural networks, graph autoencoders, spatiotemporal forecasting, pandas, PyArrow, geospatial and time-series analytics.
+* **Web & product**: Next.js, React, Vite, Angular, GraphQL, REST APIs, WordPress, Plotly, Shiny, Quarto.
