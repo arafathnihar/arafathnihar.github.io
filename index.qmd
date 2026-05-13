@@ -2,6 +2,8 @@
 title: "Arafath Nihar"
 subtitle: "Platform & data infrastructure engineer for research-scale systems"
 description: "Platform, data infrastructure, and research engineering portfolio."
+author: "Arafath Nihar"
+keywords: "Data Infrastructure, Platform Engineering, Machine Learning Operations, MLOps, HPC, Hadoop, Portfolio, Data Engineering, Case Western Reserve University, Computer Science"
 image: arafathnihar.png
 about:
   template: trestles
