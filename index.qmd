@@ -45,6 +45,48 @@ I am currently a Ph.D. candidate in Computer Science at Case Western Reserve Uni
 :::
 :::
 
+## Digital Card {#digital-card}
+
+::: {.digital-card data-digital-card="true" data-name="Arafath Nihar" data-title="Platform, data infrastructure, and machine learning engineer" data-email="arafathnihar@gmail.com" data-url="https://arafathnihar.com/#digital-card" data-vcf="arafath-nihar.vcf"}
+::: {.digital-card__identity}
+<span class="digital-card__eyebrow">Digital business card</span>
+
+### Arafath Nihar
+
+Platform, data infrastructure, and machine learning engineer.
+
+::: {.digital-card__links}
+[arafathnihar@gmail.com](mailto:arafathnihar@gmail.com) · [arafathnihar.com](https://arafathnihar.com/) · [LinkedIn](https://www.linkedin.com/in/arafathnihar/)
+:::
+:::
+
+::: {.digital-card__panel}
+<div class="digital-card__actions">
+<a class="digital-card__button digital-card__button--primary" href="arafath-nihar.vcf" download>
+  <i class="bi bi-person-lines-fill" aria-hidden="true"></i>
+  <span>Save Contact</span>
+</a>
+<button class="digital-card__button" type="button" data-share-card>
+  <i class="bi bi-share" aria-hidden="true"></i>
+  <span>Share Card</span>
+</button>
+<button class="digital-card__button" type="button" data-copy-card>
+  <i class="bi bi-link-45deg" aria-hidden="true"></i>
+  <span>Copy Link</span>
+</button>
+<button class="digital-card__button" type="button" data-write-nfc>
+  <i class="bi bi-broadcast" aria-hidden="true"></i>
+  <span>Write NFC Tag</span>
+</button>
+</div>
+
+<p class="digital-card__note">Phone-to-phone sharing uses the native share sheet. NFC writes the profile link to a physical tag on compatible Android Chrome devices.</p>
+<p class="digital-card__status" data-card-status role="status" aria-live="polite"></p>
+:::
+:::
+
+<script src="digital-card.js" defer></script>
+
 ## Experience {#experience}
 
 ::: {.timeline-item}

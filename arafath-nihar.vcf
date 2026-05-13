@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Nihar;Arafath;;;
+FN:Arafath Nihar
+TITLE:Platform, data infrastructure, and machine learning engineer
+EMAIL;TYPE=INTERNET,WORK:arafathnihar@gmail.com
+URL;TYPE=WORK:https://arafathnihar.com/
+URL;TYPE=LINKEDIN:https://www.linkedin.com/in/arafathnihar/
+URL;TYPE=GITHUB:https://github.com/arafathnihar
+URL;TYPE=SCHOLAR:https://scholar.google.com/citations?user=2fRpAloAAAAJ&hl=en
+URL;TYPE=ORCID:https://orcid.org/0000-0003-4826-290X
+NOTE:Platform, data infrastructure, machine learning, and research engineering.
+END:VCARD

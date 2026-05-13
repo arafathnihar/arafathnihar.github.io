@@ -3,6 +3,8 @@ project:
   output-dir: docs
   resources:
     - CNAME
+    - arafath-nihar.vcf
+    - digital-card.js
   render:
     - index.qmd
 
@@ -19,6 +21,8 @@ website:
     left:
       - text: Home
         href: index.qmd
+      - text: Card
+        href: index.qmd#digital-card
       - text: Experience
         href: index.qmd#experience
       - text: Projects
