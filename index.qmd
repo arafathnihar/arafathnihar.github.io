@@ -1,7 +1,7 @@
 ---
 title: "Arafath Nihar"
 subtitle: "Platform, data infrastructure, and machine learning engineer"
-description: "Portfolio for platform, data infrastructure, machine learning, and research engineering."
+description: "Platform, data infrastructure, machine learning, and research engineering."
 image: arafathnihar.png
 about:
   template: trestles
