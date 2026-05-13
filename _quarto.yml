@@ -7,7 +7,7 @@ project:
 website:
   title: "Arafath Nihar"
   description: "Platform, data infrastructure, and research engineering portfolio"
-  site-url: "https://arafathnihar.github.io/"
+  site-url: "https://arafathnihar.com/"
   site-path: "/"
   repo-url: "https://github.com/arafathnihar/arafathnihar.github.io"
   open-graph: true
@@ -41,6 +41,8 @@ website:
 
 format:
   html:
+    include-in-header:
+      - file: seo.html
     theme:
       - cosmo
       - styles.css
