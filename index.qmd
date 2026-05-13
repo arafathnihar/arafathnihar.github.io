@@ -1,6 +1,6 @@
 ---
 title: "Arafath Nihar"
-subtitle: "Platform, data infrastructure, and machine learning engineer"
+subtitle: "Engineer/Researcher building AI and scientific computing systems"
 description: "Platform, data infrastructure, machine learning, and research engineering."
 image: arafathnihar.png
 about:
@@ -31,7 +31,7 @@ about:
 
 ## Bio {#bio}
 
-Platform, data infrastructure, and machine learning engineer building petabyte-scale research platforms, cloud-native systems, distributed analytics pipelines, and reproducible ML infrastructure. I architect systems that help researchers turn complex, large-scale data into reproducible science: distributed storage, secure data access, containerized environments, HPC workflow orchestration, graph neural network workflows, and analytics products.
+Engineer/Researcher building AI and scientific computing systems building petabyte-scale research platforms, cloud-native systems, distributed analytics pipelines, and reproducible ML infrastructure. I architect systems that help researchers turn complex, large-scale data into reproducible science: distributed storage, secure data access, containerized environments, HPC workflow orchestration, graph neural network workflows, and analytics products.
 
 I am currently a Ph.D. candidate in Computer Science at Case Western Reserve University. My work spans Hadoop/HPC research infrastructure, FAIR data systems, photovoltaic fleet modeling, spatiotemporal graph learning, scientific software, and machine-learning platforms for materials data science.
 
@@ -47,13 +47,13 @@ I am currently a Ph.D. candidate in Computer Science at Case Western Reserve Uni
 
 ## Digital Card {#digital-card}
 
-::: {.digital-card data-digital-card="true" data-name="Arafath Nihar" data-title="Platform, data infrastructure, and machine learning engineer" data-email="arafathnihar@gmail.com" data-url="https://arafathnihar.com/#digital-card" data-vcf="arafath-nihar.vcf"}
+::: {.digital-card data-digital-card="true" data-name="Arafath Nihar" data-title="Engineer/Researcher building AI and scientific computing systems" data-email="arafathnihar@gmail.com" data-url="https://arafathnihar.com/#digital-card" data-vcf="arafath-nihar.vcf"}
 ::: {.digital-card__identity}
 <span class="digital-card__eyebrow">Digital business card</span>
 
 ### Arafath Nihar
 
-Platform, data infrastructure, and machine learning engineer.
+Engineer/Researcher building AI and scientific computing systems.
 
 ::: {.digital-card__links}
 [arafathnihar@gmail.com](mailto:arafathnihar@gmail.com) · [arafathnihar.com](https://arafathnihar.com/) · [LinkedIn](https://www.linkedin.com/in/arafathnihar/)
